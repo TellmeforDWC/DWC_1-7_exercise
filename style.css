@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: grey;
+}
+
+.main-visual {
+  width: auto;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.headline-text {
+  padding: 20px;
+}
+
+.contents-field {
+  margin: 50px auto;
+  text-align: left;
+  width: 840px;
+}
+
+.contents-box {
+  margin-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+}
+
+.contents-image {
+  margin-bottom: 10px;
+}
